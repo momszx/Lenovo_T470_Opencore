@@ -1,0 +1,1 @@
+Lenovo_T470_Opencore
