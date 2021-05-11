@@ -1675,7 +1675,7 @@
 		<array>
 			<string>OpenRuntime.efi</string>
 			<string>AudioDxe.efi</string>
-			<string>HfsPlus.efi</string>
+			<string>OpenHfsPlus.efi</string>
 			<string>Ps2KeyboardDxe.efi</string>
 		</array>
 		<key>Input</key>
